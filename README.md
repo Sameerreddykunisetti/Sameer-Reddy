@@ -1,5 +1,10 @@
 <div align="center">
 
+<!-- Banner Background -->
+<img src="./assets/leo.jpeg" alt="banner" width="100%" height="220px" style="object-fit:cover; border-radius:16px; filter:brightness(0.7);"/>
+
+<br/>
+
 # 👋 Hey there! I'm K Venkata Sameer Reddy
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Cloud+Developer+%E2%98%81%EF%B8%8F;Generative+AI+Explorer+%F0%9F%A4%96;Front+End+Craftsman+%F0%9F%8E%A8;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning+Something+New+%F0%9F%93%9A" alt="Typing SVG" />
