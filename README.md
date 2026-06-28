@@ -1,255 +1,148 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║        SAMEER REDDY — HACKER PROFILE README                 ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<h1 align="center">Hi 👋, I'm K Venkata Sameer Reddy</h1>
+<h3 align="center">Full Stack Developer & Cloud Developer | Generative AI Enthusiast</h3>
 
-<div align="center">
-
-```
-██████████████████████████████████████████████████████████
-█                                                        █
-█   ░██████╗░░█████╗░███╗░░░███╗███████╗███████╗██████╗ █
-█   ██╔════╝██╔══██╗████╗░████║██╔════╝██╔════╝██╔══██╗█
-█   ╚█████╗░███████║██╔████╔██║█████╗░░█████╗░░██████╔╝█
-█   ░╚═══██╗██╔══██║██║╚██╔╝██║██╔══╝░░██╔══╝░░██╔══██╗█
-█   ██████╔╝██║░░██║██║░╚═╝░██║███████╗███████╗██║░░██║█
-█   ╚═════╝░╚═╝░░╚═╝╚═╝░░░░╚═╝╚══════╝╚══════╝╚═╝░░╚═╝█
-█                                                        █
-█         [ VENKATA SAMEER REDDY KUNISETTI ]             █
-█         [ FRONTEND DEV  |  CSE '27  |  INDIA ]        █
-██████████████████████████████████████████████████████████
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=%24+whoami+--+frontend+developer;%24+status+--+open+to+opportunities;%24+location+--+Kakinada%2C+India;%24+building+--+clean+%26+scalable+web+apps;%24+learning+--+React.js+%7C+APIs+%7C+Tailwind)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=sameerreddykunisetty&style=flat-square&color=00ff41&label=VISITORS" />
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+Developer;Generative+AI+Intern;Front+End+Developer;Open+to+Opportunities!" alt="Typing SVG" />
+</p>
 
 ---
 
-```bash
-┌──(sameer㉿github)-[~/profile]
-└─$ cat about_me.sh
-```
+## 👨‍💻 About Me
 
-```sh
-#!/bin/bash
-# ╔══════════════════════════════════════╗
-# ║         SYSTEM IDENTIFICATION        ║
-# ╚══════════════════════════════════════╝
-
-NAME="Venkata Sameer Reddy Kunisetti"
-ALIAS="sameer"
-ROLE="Frontend Developer | CSE Undergrad"
-COLLEGE="Aditya Engineering College, Surampalem — CGPA: 8.70"
-LOCATION="Kakinada, Andhra Pradesh 🇮🇳"
-STATUS="[ACTIVE] — Open to Internships & Full-Time Roles"
-
-SKILLS=("HTML5" "CSS3" "JavaScript" "C" "C++" "Python" "Git" "IoT")
-INTERESTS=("Frontend Dev" "Open Source" "Hackathons" "Tech Blogging")
-CURRENTLY_LEARNING=("React.js" "REST APIs" "Tailwind CSS" "Software Testing")
-
-FUN_FACT="Presented research on Smart Organic Farming 🌾 & competed in SIH 2024"
-
-echo "[*] Initializing profile... DONE"
-echo "[*] Loading skills... DONE"
-echo "[*] Status: READY FOR HIRE ✅"
-```
+- 🎓 B.Tech CSE student at **Aditya University**, Surampalem, AP (2023–27)
+- 💼 Interned at **1stop.ai**, **Cannibals Media** & **L4G** (Generative AI)
+- 🌱 Currently learning **Cloud Technologies**, **Generative AI** & **Full Stack Development**
+- 💡 Passionate about building responsive web apps and AI-powered solutions
+- 📫 Reach me at: **sameerreddykunisetty@gmail.com**
+- 📱 Phone: **+91 7794002449**
 
 ---
 
-```bash
-┌──(sameer㉿github)-[~/skills]
-└─$ ls -la tech_stack/
-```
+## 🔗 Connect with Me
 
-```
-drwxr-xr-x  LANGUAGES/
-  ├── C.lang               [██████████] Intermediate
-  ├── C++.lang             [██████████] Intermediate
-  ├── Python.lang          [████████░░] Intermediate
-  └── JavaScript.lang      [███████░░░] Learning
-
-drwxr-xr-x  FRONTEND/
-  ├── HTML5.html           [██████████] Strong
-  ├── CSS3.css             [██████████] Strong
-  └── Responsive_Design/   [█████████░] Practiced
-
-drwxr-xr-x  TOOLS/
-  ├── git                  [████████░░] Comfortable
-  ├── github               [████████░░] Active
-  └── vscode               [██████████] Daily Driver
-
-drwxr-xr-x  OTHER/
-  ├── Software_Testing     [███████░░░] Trained
-  ├── IoT_NPTEL            [███████░░░] Certified
-  └── Social_Media_Mktg    [██████████] Experienced
-```
+<p align="left">
+  <a href="https://www.linkedin.com/in/sameerreddykunisetti/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sameerreddykunisetti" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/7794002449/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/23a91a05a8" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/sameerreddy" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-```bash
-┌──(sameer㉿github)-[~/tech_stack]
-└─$ cat badges.md
-```
+## 🛠️ Tech Stack
 
-<div align="center">
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300427E.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-NPTEL-%23FF6F00.svg?style=for-the-badge&logo=arduino&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-</div>
+### Frameworks & Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
----
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-```bash
-┌──(sameer㉿github)-[~/experience]
-└─$ cat work_log.txt
-```
+### Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-```
-╔════════════════════════════════════════════════════════════╗
-║  [JOB_01] 1stop.ai — Frontend Dev Intern                  ║
-║  Period  : May 2025 → Jul 2025  | Virtual                 ║
-║  Stack   : HTML · CSS · JavaScript                        ║
-║  -------------------------------------------------------  ║
-║  > Built responsive, user-friendly web interfaces         ║
-║  > Optimized performance across devices & browsers        ║
-║  > Followed latest frontend trends & best practices       ║
-╠════════════════════════════════════════════════════════════╣
-║  [JOB_02] Cannibals Media — Social Media Intern           ║
-║  Period  : Mar 2025 → May 2025  | Virtual                 ║
-║  Stack   : Content Strategy · Digital Marketing           ║
-║  -------------------------------------------------------  ║
-║  > Managed brand social media presence                    ║
-║  > Developed content strategies for engagement            ╠════════════════════════════════════════════════════════════╣
-```
+### AI & GenAI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ---
 
-```bash
-┌──(sameer㉿github)-[~/projects]
-└─$ cat featured.md
-```
+## 💼 Work Experience
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  PROJECT_01 :: Student Portfolio Website                     ║
-║  Status     :: [ LIVE ]                                      ║
-║  Stack      :: HTML · CSS · JavaScript · Git/GitHub          ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  > Fully responsive personal portfolio                       ║
-║  > Mobile-first design, cross-browser optimized             ║
-║  > Clean, semantic code with version control                 ║
-║  > Developed during internship @ 1stop.ai                   ║
-║                                                              ║
-║  [DEMO] → portfolio-link-here                               ║
-║  [CODE] → github.com/sameerreddykunisetty                   ║
-╚══════════════════════════════════════════════════════════════╝
+### 🤖 Generative AI Intern — L4G *(May 2026 – Jun 2026 | Virtual)*
+- Developed and evaluated Generative AI solutions using LLMs (GPT-4, LLaMA)
+- Engineered prompts for text generation, summarization and Q&A automation
+- Integrated OpenAI and HuggingFace APIs into full-stack web applications
 
-  [ MORE PROJECTS LOADING... ]
-  ████████████░░░░░░░░  60% — React.js projects in progress
-```
+### 💻 Front End Development Intern — 1stop.ai *(May 2025 – Jul 2025 | Virtual)*
+- Developed responsive web interfaces using HTML5, CSS3 and JavaScript (ES6+)
+- Improved front-end load speed and cross-browser compatibility
+- Applied best practices including accessibility, SEO and performance optimization
+
+### 📱 Social Media Marketing Intern — Cannibals Media *(Apr 2025 – May 2025 | Virtual)*
+- Managed content strategy across Instagram, LinkedIn and Twitter
+- Tracked KPIs using Google Analytics and Meta Insights
+- Collaborated with design team to produce brand creatives
 
 ---
 
-```bash
-┌──(sameer㉿github)-[~/stats]
-└─$ ./fetch_github_stats.sh sameerreddykunisetty
-```
+## 🚀 Projects
 
-<div align="center">
+### 💰 Expense Tracker
+> **HTML | CSS | JavaScript | Bootstrap**
 
-<img src="https://github-readme-stats.vercel.app/api?username=sameerreddykunisetty&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sameerreddykunisetty&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="48%"/>
+- Real-time income/expense management with live balance updates
+- Responsive, mobile-first UI built with Bootstrap 5
+- Client-side data persistence using localStorage — no backend needed
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerreddykunisetty&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="48%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sameerreddykunisetty&theme=high-contrast&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff" width="95%"/>
-
-</div>
+🔗 [View Project](https://github.com/Sameerreddykunisetti)
 
 ---
 
-```bash
-┌──(sameer㉿github)-[~/achievements]
-└─$ cat certs_and_wins.log
-```
+## 📜 Certifications
 
-```
-[✔] CERTIFIED   :: Front End Developer           @ 1stop.ai           2025
-[✔] CERTIFIED   :: IoT (NPTEL)                   @ National Programme  2024
-[✔] CERTIFIED   :: Programming Language Certs    @ Multiple Platforms
-[✔] COMPETED    :: Smart India Hackathon 2024    @ National Level
-[✔] PRESENTED   :: Smart Organic Farming Paper   @ College
-[✔] VOLUNTEERED :: Technical & Cultural Fests    @ Aditya Eng College
-```
+| Certification | Issued By |
+|---|---|
+| 🌐 IOT | NPTEL |
+| 💻 C, Python, SQL | HackerRank |
+| 🐍 Python Basic | Infosys Springboard |
+| ☕ Java | LinkedIn Learning |
 
 ---
 
-```bash
-┌──(sameer㉿github)-[~/roadmap]
-└─$ cat currently_learning.md
-```
+## 📊 GitHub Stats
 
-```python
-roadmap = {
-    "⚛️  React.js"      : "Component-based UI — IN PROGRESS ████████░░ 80%",
-    "🔗  REST APIs"     : "Frontend ↔ Backend  — IN PROGRESS ██████░░░░ 60%",
-    "🎨  Tailwind CSS"  : "Utility-first CSS   — IN PROGRESS ███████░░░ 70%",
-    "🧪  SW Testing"    : "Reliable test code  — IN PROGRESS █████░░░░░ 50%",
-}
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sameerreddykunisetti&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameerreddykunisetti&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-```bash
-┌──(sameer㉿github)-[~/connect]
-└─$ cat contact.sh
-```
-
-```sh
-#!/bin/bash
-echo "════════════════════════════════════════"
-echo "  📡  OPEN CHANNELS — REACH OUT ANYTIME "
-echo "════════════════════════════════════════"
-```
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-sameerreddykunisetty-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameerreddykunisetty@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-sameerreddykunisetty-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sameerreddykunisetty)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameerreddykunisetti&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
-<div align="center">
+## 🎯 Other Interests
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   "First, solve the problem. Then, write the code."     ║
-║                                                          ║
-║        [ OPEN TO INTERNSHIPS & FULL-TIME ROLES ]        ║
-║        [ KAKINADA, INDIA  |  B.TECH CSE 2023–27 ]      ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+- 🎤 Public Speaking
+- 💃 Dancing
+- 🔭 Exploring new technologies
 
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+---
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sameerreddykunisetti&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">⭐ <i>If you find my work interesting, feel free to star my repos!</i> ⭐</p>
